@@ -33,7 +33,7 @@ pip install reproducibility-template
 1. Install the latest development version:
 
 ```bash
-pip install git+https://github.com/martinkim0/reproducibility-template.git@main
+pip install git+https://github.com/YosefLab/reproducibility-template.git@main
 ```
 
 ## Release notes
